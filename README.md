@@ -1,2 +1,3 @@
-# CS-562-A1-Mine
-My implementation
+# AI Assignment 01 - Kids in the Yard
+
+See assignment details on Canvas.
